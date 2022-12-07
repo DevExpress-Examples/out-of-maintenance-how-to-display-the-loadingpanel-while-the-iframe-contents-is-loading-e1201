@@ -38,7 +38,7 @@ Namespace WebApplication134
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton1 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected ASPxButton1 As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxLoadingPanel1 control.
@@ -47,6 +47,6 @@ Namespace WebApplication134
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLoadingPanel1 As Global.DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel
+		Protected ASPxLoadingPanel1 As Global.DevExpress.Web.ASPxLoadingPanel
 	End Class
 End Namespace

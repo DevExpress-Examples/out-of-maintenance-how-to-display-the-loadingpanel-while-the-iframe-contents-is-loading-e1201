@@ -35,7 +35,7 @@ namespace WebApplication134 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxButton ASPxButton1;
         
         /// <summary>
         /// ASPxLoadingPanel1 control.
@@ -44,6 +44,6 @@ namespace WebApplication134 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel ASPxLoadingPanel1;
+        protected global::DevExpress.Web.ASPxLoadingPanel ASPxLoadingPanel1;
     }
 }
